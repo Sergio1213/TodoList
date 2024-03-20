@@ -30,7 +30,7 @@ El componente `TodoList` es el contenedor de todos los elementos de la lista de 
 
 ### Imagen de la interfaz
 
-![Todo app](./src/Captura .png)
+![Todo app](/src/Captura.png)
 
 
 ### Uso
