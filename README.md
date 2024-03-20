@@ -28,6 +28,11 @@ El componente `TodoList` es el contenedor de todos los elementos de la lista de 
 - Renderizado de los componentes `Todo` individuales.
 - Paso de funciones para manejar la edición y eliminación
 
+### Imagen de la interfaz
+
+(captura.png)
+
+
 ### Uso
 
 Para ejecutar esta aplicación de Lista de Tareas localmente, sigue estos pasos:
