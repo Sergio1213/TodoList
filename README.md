@@ -32,6 +32,10 @@ El componente `TodoList` es el contenedor de todos los elementos de la lista de 
 
 ![Todo app](src/Captura%20.png)
 
+### Conclusiones de uso Skills Network
+
+
+Al emplear Skills Network para construir la aplicación de lista de tareas en React, se habría accedido a un entorno educativo colaborativo y práctico. Los cursos especializados y la comunidad activa habrían facilitado el aprendizaje profundo de React y proporcionado recursos para resolver desafíos técnicos. En resumen, Skills Network habría ofrecido una ruta eficiente para desarrollar habilidades y completar el proyecto con éxito.
 
 ### Uso
 
